@@ -4,7 +4,7 @@ Graham's scan is a method in Algebraic Topology, finding the convex hull of a fi
 
 Simply speaking, it is a really fast and simple algorithm to check if the shape of a set of 2D data could be of a circle with points in the interior.
 
-Application of the script using grahamScan class, checking the statement above for a 2D dataset:
+Implementation, checking the statement above for a 2D dataset:
 
 ```java
 public static void main(String[] args) {
